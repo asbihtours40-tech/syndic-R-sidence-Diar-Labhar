@@ -1,0 +1,6 @@
+{
+  "name": "CoproLink - Espace Copropriété & Syndic",
+  "description": "Application collaborative de gestion de copropriété facilitant les échanges fluides et transparents entre résidents, conseil syndical et syndic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
